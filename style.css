@@ -1,0 +1,45 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+.note
+{
+  font-size: 15px;
+  color: black;
+}
+body
+{
+  background-size: cover;	
+  background-color:#fffff1;
+}
+  #song
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+    canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+  }
+  .div_speed_img
+  {
+  	width: 150px; 
+  	border-radius: 100px;
+  }
+  .div_volume_img
+  {
+  	width: 150px; 
+  	border-radius: 100px;
+  }
+  .div_volume
+  {
+  	float: right;	
+  }
+  .div_speed
+  {
+  	float: left;	
+  }
